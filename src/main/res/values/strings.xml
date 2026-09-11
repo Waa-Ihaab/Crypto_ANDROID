@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="app_cry">TEXT</string>
+    <string name="img_name">Warning</string>
+    <string name="app_result">Encrypted</string>
+    <string name="btn_name">Encrypt</string>
+    <string name="txt_field">Enter a text to encrypt</string>
+</resources>
+
